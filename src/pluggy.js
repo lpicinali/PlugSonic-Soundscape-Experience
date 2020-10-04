@@ -130,7 +130,7 @@ if (hostname === 'develop.pluggy.eu') {
 } else if (hostname === 'pluggy.eu') {
   API = 'https://pluggy.eu/api/v1'
 } else {
-  API = 'https://develop.pluggy.eu/api/v1'
+  API = 'https://beta.pluggy.eu/api/v1'
 }
 
 console.log('API SETTING:')
